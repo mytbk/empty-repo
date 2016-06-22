@@ -1,11 +1,7 @@
 *** 计算机类
 
-- ~~The {C,C++,D} Programming Language 中文版~~
-- ~~数据结构与算法分析——C语言描述~~
 - Haskell函数式编程基础
 - Types and Programming Languages
-- ~~TCP/IP详解 卷1 卷2~~
-- ~~计算机网络 (Andrew S. Tanenbaum， David J. Wetherall)~~
 - 计算机网络——自顶向下方法 (英文版)
 - 算法设计与分析
 - 初等数论及其在计算机科学的应用
